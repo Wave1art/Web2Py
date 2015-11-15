@@ -27,3 +27,8 @@ export PATH=/Volumes/SSD/Applications/mongodb/bin:$PATH
 
 note on Linux the bash profile is ~/.bashrc
 
+# Use of Python environment with Web2Py
+In theory it is possible to use web2py with any python build. In practice it is sensible to use 2.7
+
+#Selenium
+Install selnium (if using Conda then will need ot choose a compatible version with the firefox browser chosen).
