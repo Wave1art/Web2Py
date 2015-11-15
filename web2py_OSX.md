@@ -8,7 +8,7 @@ All application files are stored in a folder in the main web2py.app application.
 On macbook pro they are located here:
 ```bash
 /.../Applications/web2py.app/Contents/applications/[appname]
-```bash
+```
 
 ## using web2py from the command line
 The web2py is in the app executable to use it from the command line it must either be referenced explicitly or the executable must be exported to the PATH.
